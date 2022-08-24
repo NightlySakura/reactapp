@@ -37,9 +37,9 @@ function MainSite() {
                     <p>Unser Ansatz als Firma wird es sein Menschen zu helfen, in jeglichen Bereichen des Lebens oder des Weiterentwickelns, egal ob man den Wissensstand erweitern möchte oder Skills. Hierzu vermitteln wir die Kunden and die passenden stellen weiter und übernemen alles was da sonst noch anfällt drum und bieten kostenlose Therapiestunden an, die aber eine langfristige nicht ersetzen können, trotzdessen ein nettes Angbot sein soll für Leute, die sich schwer tun einen Therapieplatz zu finen. (Text von Jannes)</p>
                 </div>
             </section>
-            <!-- Start of HubSpot Embed Code -->
+            {/* Start of HubSpot Embed Code*/}
             <script type="text/javascript" id="hs-script-loader" async defer src="//js-eu1.hs-scripts.com/26181735.js"></script>
-            <!-- End of HubSpot Embed Code -->
+            {/* End of HubSpot Embed Code*/}
             </body>
             <footer>
                 <div className="footerContainer">
